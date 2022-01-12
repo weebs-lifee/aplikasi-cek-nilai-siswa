@@ -1,4 +1,4 @@
-# aplikasi-cek-grade-siswa-melalui-nilai
+# aplikasi-cek--nilai-siswa
 
 aplikasi ini berguna untuk cek nilai siswa dengan grade di antaranya :
 - Nilai 90 - 100  = Grade A
